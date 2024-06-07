@@ -1,0 +1,5 @@
+﻿  MyCalculator1.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyCalculator1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.WinForms.vcxproj -> F:\Calculator\calculator.WinForms\x64\Debug\Calculator.WinForms.exe

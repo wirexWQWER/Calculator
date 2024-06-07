@@ -1,0 +1,5 @@
+﻿  MyCalculator1.cpp
+F:\Calculator\calculator.WinForms\Polish.h(173,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Calculator\calculator.WinForms\MyCalculator1.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyCalculator1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.WinForms.vcxproj -> F:\Calculator\calculator.WinForms\x64\Debug\Calculator.WinForms.exe

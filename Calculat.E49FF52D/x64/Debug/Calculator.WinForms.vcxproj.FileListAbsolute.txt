@@ -1,0 +1,6 @@
+C:\Users\user\OneDrive\Рабочий стол\IT top\Calculator\calculator.WinForms\Calculat.E49FF52D\x64\Debug\Calculator.WinForms.vcxproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\IT top\Calculator\calculator.WinForms\Calculat.E49FF52D\x64\Debug\CalculatorWinForms.MyCalculator1.resources
+C:\Users\user\OneDrive\Рабочий стол\IT top\Calculator\calculator.WinForms\Calculat.E49FF52D\x64\Debug\Calculator.WinForms.vcxproj.GenerateResource.cache
+F:\Calculator\calculator.WinForms\Calculat.E49FF52D\x64\Debug\Calculator.WinForms.vcxproj.AssemblyReference.cache
+F:\Calculator\calculator.WinForms\Calculat.E49FF52D\x64\Debug\CalculatorWinForms.MyCalculator1.resources
+F:\Calculator\calculator.WinForms\Calculat.E49FF52D\x64\Debug\Calculator.WinForms.vcxproj.GenerateResource.cache
